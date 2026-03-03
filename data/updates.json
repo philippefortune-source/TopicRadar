@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alex",
+    "date": "2026-02-20",
+    "text": "Ich arbeite an Topic Modeling, Embeddings und einer neuen Suche für interne Wissensdokumente."
+  },
+  {
+    "name": "Sam",
+    "date": "2026-02-18",
+    "text": "Ich baue Dashboards für Produktmetriken und eine API für semantische Suche in Reports."
+  },
+  {
+    "name": "Mina",
+    "date": "2026-02-25",
+    "text": "Ich optimiere ETL-Pipelines, Datenqualität und Monitoring für den Analytics-Stack."
+  }
+]
