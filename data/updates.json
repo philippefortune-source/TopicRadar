@@ -1,0 +1,7 @@
+diff --git a/data/updates.json b/data/updates.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..fe51488c7066f6687ef680d6bfaa4f7768ef205c
+--- /dev/null
++++ b/data/updates.json
+@@ -0,0 +1 @@
++[]
